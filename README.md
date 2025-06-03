@@ -1,4 +1,6 @@
-# FUTURE_DS_02
+# FUTURE_DS_02      
+**Task2:Completed Customer Support Ticket Analysis**    
+
 **Project: End-to-End Customer Support Ticket Analysis**
 
 This project showcases a comprehensive data analysis workflow, from initial data handling and cleaning to insightful visualization and actionable recommendations, all aimed at optimizing customer support operations. My approach leveraged a combination of Python for robust data manipulation and Excel for preliminary analysis and supplementary visualizations, culminating in an interactive Tableau Dashboard.
