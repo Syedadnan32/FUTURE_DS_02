@@ -55,5 +55,5 @@ Excel for Quick Aggregations & Visualizations: Leveraged Excel's pivot table fun
 **📬 Contact**
    **Syed Adnan**      
         **LinkedIn** - www.linkedin.com/in/syedadnan1230|      
-           **GitHub** - https//github.com/Syedadnan32/FUTURE_DS_02
+           **GitHub** - github.com/Syedadnan32/FUTURE_DS_02
        
